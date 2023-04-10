@@ -1,0 +1,11 @@
+framework module Swiff {
+  umbrella header "Swiff.h"
+
+  export *
+  module * { export * }
+}
+
+module Swiff.Swift {
+  header "Swiff-Swift.h"
+  requires objc
+}
