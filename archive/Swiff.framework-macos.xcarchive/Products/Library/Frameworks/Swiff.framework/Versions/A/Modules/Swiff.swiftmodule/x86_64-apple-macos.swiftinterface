@@ -17,6 +17,10 @@ import _SwiftConcurrencyShims
   public var wrappedValue: T
   public init(_ tag: Swift.String? = nil)
 }
+@propertyWrapper public struct InjectState<T> {
+  public var wrappedValue: T
+  public init(_ tag: Swift.String? = nil)
+}
 public typealias ModuleDeclaration = (Swiff.Container) -> Swift.Void
 public struct Container {
   public func single<T>(_ tag: Swift.String? = nil, _ builder: () -> T)
