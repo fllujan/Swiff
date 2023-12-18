@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		36L5DB4+A9RV74F1iPAl0JE9xSs=
+		JkR2TsSQs3aryKcezb3bgs50Skk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -19,7 +19,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qbeOtue/sDA4aW0Xl6XnKdUhRhDxlqIX6KD7srY3gLg=
+			Km61do9HC0KUpGBHd9MIp7oM6y+ZeeocRV/7iTmvqwQ=
 			</data>
 		</dict>
 		<key>Headers/Swiff.h</key>
@@ -33,77 +33,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			evqfkA/6dI8tA4S+OldzQZGX08oYOj8cedbnH9MUlxY=
+			L104Z0Bz25J2aV+DMBAAnNNr6TQPM3+C95SdUUpywRw=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xhHN/h+RXMx6FKsTXH1AnMA/ldXu5fxA+We8fzIeayI=
+			ykuHxr+5ZSe3UA+4XaG8gbksF8+TKIpOe0BzwHQNIHE=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XT0Ywhws9W38AX34K98qs0ZiN7A8BvNq2FgK6VV/vN4=
+			/FkEHF5UL9AOjCMUMighAj71nSUrKPaehyBIVRLCKVY=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xhHN/h+RXMx6FKsTXH1AnMA/ldXu5fxA+We8fzIeayI=
+			ykuHxr+5ZSe3UA+4XaG8gbksF8+TKIpOe0BzwHQNIHE=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MYqxqvi2z119ZsqS7SBYi/ctZeEBEt689I6mpds5Vjc=
+			Hz4b2iC3SQnEXK66Tmwdc21XmYz97Yd8tJ+joc6JTAw=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			evqfkA/6dI8tA4S+OldzQZGX08oYOj8cedbnH9MUlxY=
+			L104Z0Bz25J2aV+DMBAAnNNr6TQPM3+C95SdUUpywRw=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WMg9TGDQs/GsETJngrPWxfUESozlsXpfJdVQb3s4EBs=
+			XCxtZtc2becvMnsFa8/CQFnOq+HSC8enRH4sR1nIANA=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Khg8fWE0T2CPBfAQof7fi7pXLFJbvD1iyVGF5CD64Zk=
+			UYnRKrsWf6m/WAr+HdzBLonCAqmtT209AEqu8h/aMHE=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WMg9TGDQs/GsETJngrPWxfUESozlsXpfJdVQb3s4EBs=
+			XCxtZtc2becvMnsFa8/CQFnOq+HSC8enRH4sR1nIANA=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E5BjZYJag/hZo5TG9+yisWDjPg93AZSQ23v2LvsqyV8=
+			hS1gyc7bgxGGqtQ+A7AfAc/QyS5HeNXALHlkQ30Vmdw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zklHPN5KDe3HjFrv3jW/2KGMpMcbDxZ2OiGPPQcyr+s=
+			O4hqQMymrFYnJUJQb4vTSuuMWPbhPFZLlFxbQYUiylA=
 			</data>
 		</dict>
 		<key>Resources/DefinicionTest.text</key>
@@ -117,7 +117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fgmvXPNhC5HF3UDAIJL5Xt+sGeBN/HZ0JXTRBXudqiw=
+			63AJw/BDKJcG8bpl+T7CM0hn14K01qm93CUjNEX0QCE=
 			</data>
 		</dict>
 	</dict>

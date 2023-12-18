@@ -1,7 +1,7 @@
 framework module Swiff {
   umbrella header "Swiff.h"
-
   export *
+
   module * { export * }
 }
 

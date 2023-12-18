@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/Swiff-Swift.h</key>
 		<data>
-		jBharV76yTxPq06syyFNd6KXQKw=
+		UmDR9yH1RhwfHji47be/iMseRuA=
 		</data>
 		<key>Headers/Swiff.h</key>
 		<data>
@@ -18,31 +18,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/N+pESF0G243Bnk3OJjwNVzmI6A=
+		9Iu+cpduWGiF5oFN+/+ci1KoLJA=
 		</data>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<data>
-		+5JISoYlPIpk4ffdblC7nEkuv74=
+		Ot8r4NccVH2eqR1YD+vFSqSwhUo=
 		</data>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
 		<data>
-		JDWoiPmSK85PMP1noC60I/hLQVw=
+		PSlIQMo8hzTduI/YJ1dXuB4Uby0=
 		</data>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-tvos.swiftdoc</key>
 		<data>
-		jqZJgiJ2lKMn2EmTa0Ap6me9NFk=
+		yfYOKtUluNc9KG4FvtGkKhhRHfw=
 		</data>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-tvos.swiftinterface</key>
 		<data>
-		JDWoiPmSK85PMP1noC60I/hLQVw=
+		PSlIQMo8hzTduI/YJ1dXuB4Uby0=
 		</data>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-tvos.swiftmodule</key>
 		<data>
-		TKFBjDGC+Syh7Qt5tCIXfGCmaxI=
+		NupIBq/aSsdcndcAGhjJ4bopFwE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		S6rPw7iLVZwOszB8NNg9N4+Jsmc=
+		NL1qWPYxC3CTmR7JIvni6UHxmqY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -58,7 +58,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AsoKN9RqKuo6kL5fe0CPfzwcqn6Mc4FQMJhvolnfMYE=
+			UM8R/uLVW+448KcrteBX8DV8TWX2EYOINThawsKMPGw=
 			</data>
 		</dict>
 		<key>Headers/Swiff.h</key>
@@ -72,42 +72,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			evqfkA/6dI8tA4S+OldzQZGX08oYOj8cedbnH9MUlxY=
+			L104Z0Bz25J2aV+DMBAAnNNr6TQPM3+C95SdUUpywRw=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/0r0fCqEHQm5cHl9R6rAnBhAA/V23/CbB8kqmgltXII=
+			ZC6TQQncRjW6syEH2v58abiteWi4a73fz5RMLKU/GbE=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-tvos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nQJnJZ4XUSe9gkGbyBzbdfETF3YmJy7pPs3o0XbINNI=
+			VgHS3bEtI9iYGc16YlRVHSQsVrBm2V6sW32uT/q8SOI=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-tvos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/0r0fCqEHQm5cHl9R6rAnBhAA/V23/CbB8kqmgltXII=
+			ZC6TQQncRjW6syEH2v58abiteWi4a73fz5RMLKU/GbE=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-tvos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qAGcNYZ2u/5QsM+DKnZuEzBw1iSNZ2iwvpOJGZznQjE=
+			YXvnkS5/DU0v6T0a5yUC4jHRGr1pbAVxICoGiezAvkE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zklHPN5KDe3HjFrv3jW/2KGMpMcbDxZ2OiGPPQcyr+s=
+			O4hqQMymrFYnJUJQb4vTSuuMWPbhPFZLlFxbQYUiylA=
 			</data>
 		</dict>
 	</dict>
