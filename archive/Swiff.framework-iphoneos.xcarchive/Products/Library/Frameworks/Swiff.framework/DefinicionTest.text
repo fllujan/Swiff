@@ -1,0 +1,6 @@
++ Si se declara una instancia como singleton solo hay una
++ Si se declara como factory hay multiples
++ Si una instacia depende de otra ambas se crean cuando se instancia la superior
++ Si se declara varios modulos se deben ejecutar ambos modulos
++ Si dos instancias son del mismo tipo debemos ponerle un nombre para poder guardar en el container
++ Si queremos quitar una instancia del servive location deberiamos poder quitarla

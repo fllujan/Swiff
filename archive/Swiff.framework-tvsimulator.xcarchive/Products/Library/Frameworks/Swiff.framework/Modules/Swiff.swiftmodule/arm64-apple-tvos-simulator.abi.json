@@ -1,0 +1,830 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "TypeDecl",
+        "name": "Inject",
+        "printedName": "Inject",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "wrappedValue",
+            "printedName": "wrappedValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Swiff6InjectV12wrappedValuexvp",
+            "mangledName": "$s5Swiff6InjectV12wrappedValuexvp",
+            "moduleName": "Swiff",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Swiff6InjectV12wrappedValuexvg",
+                "mangledName": "$s5Swiff6InjectV12wrappedValuexvg",
+                "moduleName": "Swiff",
+                "genericSig": "<τ_0_0>",
+                "sugared_genericSig": "<T>",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Swiff6InjectV12wrappedValuexvs",
+                "mangledName": "$s5Swiff6InjectV12wrappedValuexvs",
+                "moduleName": "Swiff",
+                "genericSig": "<τ_0_0>",
+                "sugared_genericSig": "<T>",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Swiff6InjectV12wrappedValuexvM",
+                "mangledName": "$s5Swiff6InjectV12wrappedValuexvM",
+                "moduleName": "Swiff",
+                "genericSig": "<τ_0_0>",
+                "sugared_genericSig": "<T>",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Inject",
+                "printedName": "Swiff.Inject<τ_0_0>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:5Swiff6InjectV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:5Swiff6InjectVyACyxGSSSgcfc",
+            "mangledName": "$s5Swiff6InjectVyACyxGSSSgcfc",
+            "moduleName": "Swiff",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:5Swiff6InjectV",
+        "mangledName": "$s5Swiff6InjectV",
+        "moduleName": "Swiff",
+        "genericSig": "<τ_0_0>",
+        "sugared_genericSig": "<T>",
+        "declAttributes": [
+          "AccessControl",
+          "PropertyWrapper"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "Swiff"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "InjectObservable",
+        "printedName": "InjectObservable",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "wrappedValue",
+            "printedName": "wrappedValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Swiff16InjectObservableV12wrappedValuexvp",
+            "mangledName": "$s5Swiff16InjectObservableV12wrappedValuexvp",
+            "moduleName": "Swiff",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Swiff16InjectObservableV12wrappedValuexvg",
+                "mangledName": "$s5Swiff16InjectObservableV12wrappedValuexvg",
+                "moduleName": "Swiff",
+                "genericSig": "<τ_0_0 where τ_0_0 : Combine.ObservableObject>",
+                "sugared_genericSig": "<T where T : Combine.ObservableObject>",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Swiff16InjectObservableV12wrappedValuexvs",
+                "mangledName": "$s5Swiff16InjectObservableV12wrappedValuexvs",
+                "moduleName": "Swiff",
+                "genericSig": "<τ_0_0 where τ_0_0 : Combine.ObservableObject>",
+                "sugared_genericSig": "<T where T : Combine.ObservableObject>",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Swiff16InjectObservableV12wrappedValuexvM",
+                "mangledName": "$s5Swiff16InjectObservableV12wrappedValuexvM",
+                "moduleName": "Swiff",
+                "genericSig": "<τ_0_0 where τ_0_0 : Combine.ObservableObject>",
+                "sugared_genericSig": "<T where T : Combine.ObservableObject>",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "InjectObservable",
+                "printedName": "Swiff.InjectObservable<τ_0_0>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:5Swiff16InjectObservableV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:5Swiff16InjectObservableVyACyxGSSSgcfc",
+            "mangledName": "$s5Swiff16InjectObservableVyACyxGSSSgcfc",
+            "moduleName": "Swiff",
+            "genericSig": "<τ_0_0 where τ_0_0 : Combine.ObservableObject>",
+            "sugared_genericSig": "<T where T : Combine.ObservableObject>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:5Swiff16InjectObservableV",
+        "mangledName": "$s5Swiff16InjectObservableV",
+        "moduleName": "Swiff",
+        "genericSig": "<τ_0_0 where τ_0_0 : Combine.ObservableObject>",
+        "sugared_genericSig": "<T where T : Combine.ObservableObject>",
+        "declAttributes": [
+          "AccessControl",
+          "PropertyWrapper"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "Swiff"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Container",
+        "printedName": "Container",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "single",
+            "printedName": "single(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> τ_0_0",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "typeAttributes": [
+                  "noescape"
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Swiff9ContainerV6singleyySSSg_xyXEtlF",
+            "mangledName": "$s5Swiff9ContainerV6singleyySSSg_xyXEtlF",
+            "moduleName": "Swiff",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "factory",
+            "printedName": "factory(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> τ_0_0",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Swiff9ContainerV7factoryyySSSg_xyctlF",
+            "mangledName": "$s5Swiff9ContainerV7factoryyySSSg_xyctlF",
+            "moduleName": "Swiff",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "get",
+            "printedName": "get(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Swiff9ContainerV3getyxSSSglF",
+            "mangledName": "$s5Swiff9ContainerV3getyxSSSglF",
+            "moduleName": "Swiff",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "remove",
+            "printedName": "remove(_:instance:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Swiff9ContainerV6remove_8instanceySSSg_xtlF",
+            "mangledName": "$s5Swiff9ContainerV6remove_8instanceySSSg_xtlF",
+            "moduleName": "Swiff",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:5Swiff9ContainerV",
+        "mangledName": "$s5Swiff9ContainerV",
+        "moduleName": "Swiff",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Function",
+        "name": "module",
+        "printedName": "module(_:)",
+        "children": [
+          {
+            "kind": "TypeFunc",
+            "name": "Function",
+            "printedName": "(Swiff.Container) -> ()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Container",
+                "printedName": "Swiff.Container",
+                "usr": "s:5Swiff9ContainerV"
+              }
+            ]
+          },
+          {
+            "kind": "TypeFunc",
+            "name": "Function",
+            "printedName": "(Swiff.Container) -> ()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Container",
+                "printedName": "Swiff.Container",
+                "usr": "s:5Swiff9ContainerV"
+              }
+            ]
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:5Swiff6moduleyyAA9ContainerVcyADcF",
+        "mangledName": "$s5Swiff6moduleyyAA9ContainerVcyADcF",
+        "moduleName": "Swiff",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "startSwiff",
+        "printedName": "startSwiff(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Array",
+            "printedName": "[(Swiff.Container) -> ()]",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swiff.Container) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Container",
+                    "printedName": "Swiff.Container",
+                    "usr": "s:5Swiff9ContainerV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sa"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:5Swiff05startA0yyyAA9ContainerVcd_tF",
+        "mangledName": "$s5Swiff05startA0yyyAA9ContainerVcd_tF",
+        "moduleName": "Swiff",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Inject.swift",
+      "kind": "StringLiteral",
+      "offset": 187,
+      "length": 11,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Inject.swift",
+      "kind": "StringLiteral",
+      "offset": 197,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/InjectObservable.swift",
+      "kind": "StringLiteral",
+      "offset": 218,
+      "length": 11,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/InjectObservable.swift",
+      "kind": "StringLiteral",
+      "offset": 228,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "Dictionary",
+      "offset": 154,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 278,
+      "length": 11,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 288,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 341,
+      "length": 20,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 349,
+      "length": 1,
+      "value": "\"::\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 360,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 531,
+      "length": 11,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 541,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 594,
+      "length": 20,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 602,
+      "length": 1,
+      "value": "\"::\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 613,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 770,
+      "length": 23,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 792,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 845,
+      "length": 32,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 853,
+      "length": 1,
+      "value": "\"::\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 876,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 1094,
+      "length": 17,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 1101,
+      "length": 1,
+      "value": "\"::\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 1110,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 1369,
+      "length": 27,
+      "value": "\"Service \""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 1385,
+      "length": 3,
+      "value": "\" not found\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 1578,
+      "length": 3,
+      "value": "\"<\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/ServiceLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 1626,
+      "length": 3,
+      "value": "\">\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container.swift",
+      "kind": "StringLiteral",
+      "offset": 465,
+      "length": 11,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container.swift",
+      "kind": "StringLiteral",
+      "offset": 475,
+      "length": 2,
+      "value": "\"\""
+    }
+  ]
+}

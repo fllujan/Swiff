@@ -1,0 +1,28 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
+// swift-module-flags: -target x86_64-apple-watchos8.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Swiff
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Combine
+@_exported import Swiff
+import Swift
+import SwiftUI
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@propertyWrapper public struct Inject<T> {
+  public var wrappedValue: T
+  public init(_ tag: Swift.String? = nil)
+}
+@propertyWrapper public struct InjectObservable<T> where T : Combine.ObservableObject {
+  public var wrappedValue: T
+  public init(_ tag: Swift.String? = nil)
+}
+public typealias ModuleDeclaration = (Swiff.Container) -> Swift.Void
+public struct Container {
+  public func single<T>(_ tag: Swift.String? = nil, _ builder: () -> T)
+  public func factory<T>(_ tag: Swift.String? = nil, _ builder: @escaping () -> T)
+  public func get<T>(_ tag: Swift.String? = nil) -> T
+  public func remove<T>(_ tag: Swift.String? = nil, instance: T)
+}
+public func module(_ container: @escaping Swiff.ModuleDeclaration) -> Swiff.ModuleDeclaration
+public func startSwiff(_ modules: Swiff.ModuleDeclaration...)
