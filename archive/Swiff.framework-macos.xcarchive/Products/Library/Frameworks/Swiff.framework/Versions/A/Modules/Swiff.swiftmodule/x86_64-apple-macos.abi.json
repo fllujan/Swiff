@@ -832,156 +832,142 @@
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 278,
+      "offset": 253,
       "length": 11,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 288,
+      "offset": 263,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 341,
+      "offset": 316,
       "length": 20,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 349,
+      "offset": 324,
       "length": 1,
       "value": "\"::\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 360,
+      "offset": 335,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 531,
+      "offset": 506,
       "length": 11,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 541,
+      "offset": 516,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 594,
+      "offset": 569,
       "length": 20,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 602,
+      "offset": 577,
       "length": 1,
       "value": "\"::\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 613,
+      "offset": 588,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 770,
+      "offset": 745,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 792,
+      "offset": 767,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 845,
+      "offset": 820,
       "length": 32,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 853,
+      "offset": 828,
       "length": 1,
       "value": "\"::\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 876,
+      "offset": 851,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 1094,
+      "offset": 1069,
       "length": 17,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 1101,
+      "offset": 1076,
       "length": 1,
       "value": "\"::\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 1110,
+      "offset": 1085,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 1369,
+      "offset": 1344,
       "length": 27,
       "value": "\"Service \""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
       "kind": "StringLiteral",
-      "offset": 1385,
+      "offset": 1360,
       "length": 3,
       "value": "\" not found\""
-    },
-    {
-      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
-      "kind": "StringLiteral",
-      "offset": 1578,
-      "length": 3,
-      "value": "\"<\""
-    },
-    {
-      "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/ServiceLocator.swift",
-      "kind": "StringLiteral",
-      "offset": 1626,
-      "length": 3,
-      "value": "\">\""
     },
     {
       "filePath": "\/Users\/felixlujanalbarran\/Apps\/Library\/Swiff\/Build\/Swiff\/Swiff\/Container\/Container.swift",

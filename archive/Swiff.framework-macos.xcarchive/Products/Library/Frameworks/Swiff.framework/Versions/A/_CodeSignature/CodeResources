@@ -33,7 +33,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xJaik1fnCFv/MVNWU1kV2BWOgRJnwS4KhUL8OfnXhbk=
+			hAQ2ls0GCwuEdkrEt4Lq6rSww/9WKuRn8DN0ZKRCeuU=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LEMzXxdeQqHQyOuwBDydvyXYIuxcDJDkVkKG5+o6nyE=
+			MPF0+16JMeGpPi/1GqbmLjeFawIfW7cEMK/vnEC9o3s=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xJaik1fnCFv/MVNWU1kV2BWOgRJnwS4KhUL8OfnXhbk=
+			hAQ2ls0GCwuEdkrEt4Lq6rSww/9WKuRn8DN0ZKRCeuU=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
@@ -96,7 +96,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1CzVlIG097+aqShxHSKVYNj8CMClrjOZP7+zKsn+Vdk=
+			CEYWCq8g7Ri8fPLPkF/DLVNG28SfYnJkCcT/HgBN2vQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
