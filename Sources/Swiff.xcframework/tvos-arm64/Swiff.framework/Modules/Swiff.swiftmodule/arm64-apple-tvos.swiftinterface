@@ -11,22 +11,47 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 @propertyWrapper public struct Inject<T> {
   public var wrappedValue: T
-  public init(_ tag: Swift.String? = nil)
+  public init(_ named: Swift.String? = nil)
 }
-@propertyWrapper public struct InjectObservable<T> where T : Combine.ObservableObject {
-  public var wrappedValue: T
-  public init(_ tag: Swift.String? = nil)
+@propertyWrapper public struct InjectState<T> : SwiftUI.DynamicProperty {
+  public var wrappedValue: T {
+    get
+    nonmutating set
+  }
+  public var projectedValue: SwiftUI.Binding<T> {
+    get
+  }
+  public init(_ named: Swift.String? = nil)
 }
-@propertyWrapper public struct InjectState<T> {
-  public var wrappedValue: T
-  public init(_ tag: Swift.String? = nil)
+@available(iOS, deprecated: 17.0, message: "use InjectState with tag @Observable")
+@propertyWrapper @_Concurrency.MainActor(unsafe) public struct InjectStateObject<T> : SwiftUI.DynamicProperty where T : Combine.ObservableObject {
+  @_Concurrency.MainActor(unsafe) public var wrappedValue: T {
+    get
+    nonmutating set
+  }
+  @_Concurrency.MainActor(unsafe) public var projectedValue: SwiftUI.Binding<T> {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) public init(_ named: Swift.String? = nil)
+}
+@available(iOS, deprecated: 17.0, message: "use InjectState with tag @Observable")
+@propertyWrapper @_Concurrency.MainActor(unsafe) public struct InjectObservedObject<T> : SwiftUI.DynamicProperty where T : Combine.ObservableObject {
+  @_Concurrency.MainActor(unsafe) public var wrappedValue: T {
+    get
+    nonmutating set
+  }
+  @_Concurrency.MainActor(unsafe) public var projectedValue: SwiftUI.Binding<T> {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) public init(_ named: Swift.String? = nil)
 }
 public typealias ModuleDeclaration = (Swiff.Container) -> Swift.Void
 public struct Container {
-  public func single<T>(_ tag: Swift.String? = nil, _ builder: () -> T)
-  public func factory<T>(_ tag: Swift.String? = nil, _ builder: @escaping () -> T)
-  public func get<T>(_ tag: Swift.String? = nil) -> T
-  public func remove<T>(_ tag: Swift.String? = nil, instance: T)
+  public func single<T>(to register: T.Type, implement: (any Swift.AnyObject.Type)? = nil, named: Swift.String? = nil) where T : Swiff.Injectable
+  public func factory<T>(to register: T.Type, implement: (any Any.Type)? = nil, named: Swift.String? = nil) where T : Swiff.Injectable
 }
 public func module(_ container: @escaping Swiff.ModuleDeclaration) -> Swiff.ModuleDeclaration
 public func startSwiff(_ modules: Swiff.ModuleDeclaration...)
+public protocol Injectable {
+  init()
+}
