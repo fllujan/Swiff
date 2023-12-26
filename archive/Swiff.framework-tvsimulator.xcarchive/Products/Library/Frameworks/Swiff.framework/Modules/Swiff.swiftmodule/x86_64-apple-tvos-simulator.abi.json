@@ -863,17 +863,17 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "AnyObject.Type?",
+                "printedName": "Any.Type?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "ExistentialMetatype",
-                    "printedName": "AnyObject.Type",
+                    "printedName": "Any.Type",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "printedName": "Any"
                       }
                     ]
                   }
@@ -898,8 +898,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5Swiff9ContainerV6single2to9implement5namedyxm_yXlXpSgSSSgtAA10InjectableRzlF",
-            "mangledName": "$s5Swiff9ContainerV6single2to9implement5namedyxm_yXlXpSgSSSgtAA10InjectableRzlF",
+            "usr": "s:5Swiff9ContainerV6single2to9implement5namedyxm_ypXpSgSSSgtAA10InjectableRzlF",
+            "mangledName": "$s5Swiff9ContainerV6single2to9implement5namedyxm_ypXpSgSSSgtAA10InjectableRzlF",
             "moduleName": "Swiff",
             "genericSig": "<τ_0_0 where τ_0_0 : Swiff.Injectable>",
             "sugared_genericSig": "<T where T : Swiff.Injectable>",

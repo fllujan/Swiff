@@ -127,7 +127,7 @@ relocations:
   - { offsetInCU: 0x4F, offset: 0xC287F, size: 0x8, addend: 0x0, symName: '_$s5Swiff14FactoryServiceV7getNameSSyF', symObjAddr: 0x0, symBinAddr: 0x43C0, symSize: 0x130 }
   - { offsetInCU: 0x119, offset: 0xC2949, size: 0x8, addend: 0x0, symName: '_$sSSSgWOb', symObjAddr: 0x130, symBinAddr: 0x44F0, symSize: 0x48 }
   - { offsetInCU: 0x12D, offset: 0xC295D, size: 0x8, addend: 0x0, symName: '_$s5Swiff14FactoryServiceVWOr', symObjAddr: 0x1B8, symBinAddr: 0x4538, symSize: 0x28 }
-  - { offsetInCU: 0xCB, offset: 0xC2AA6, size: 0x8, addend: 0x0, symName: '_$s5Swiff9ContainerV6single2to9implement5namedyxm_yXlXpSgSSSgtAA10InjectableRzlF', symObjAddr: 0x0, symBinAddr: 0x4560, symSize: 0x104 }
+  - { offsetInCU: 0xCB, offset: 0xC2AA6, size: 0x8, addend: 0x0, symName: '_$s5Swiff9ContainerV6single2to9implement5namedyxm_ypXpSgSSSgtAA10InjectableRzlF', symObjAddr: 0x0, symBinAddr: 0x4560, symSize: 0x104 }
   - { offsetInCU: 0x196, offset: 0xC2B71, size: 0x8, addend: 0x0, symName: '_$s5Swiff9ContainerV7factory2to9implement5namedyxm_ypXpSgSSSgtAA10InjectableRzlF', symObjAddr: 0x104, symBinAddr: 0x4664, symSize: 0x108 }
   - { offsetInCU: 0x2FD, offset: 0xC2CD8, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSS_Tg5', symObjAddr: 0x20C, symBinAddr: 0x476C, symSize: 0x64 }
   - { offsetInCU: 0x36B, offset: 0xC2D46, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV7_insert2at3key5valueys10_HashTableV6BucketV_xnq_ntFSS_5Swiff10Injectable_pycTg5', symObjAddr: 0x270, symBinAddr: 0x47D0, symSize: 0x54 }
@@ -140,10 +140,10 @@ relocations:
   - { offsetInCU: 0x694, offset: 0xC306F, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV4copyyyFSS_5Swiff10Injectable_pycTg5', symObjAddr: 0x830, symBinAddr: 0x4D90, symSize: 0x1C8 }
   - { offsetInCU: 0x736, offset: 0xC3111, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV20_copyOrMoveAndResize8capacity12moveElementsySi_SbtFSS_5Swiff11ServiceTypeOTg5', symObjAddr: 0x9F8, symBinAddr: 0x4F58, symSize: 0x394 }
   - { offsetInCU: 0x842, offset: 0xC321D, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV20_copyOrMoveAndResize8capacity12moveElementsySi_SbtFSS_5Swiff10Injectable_pycTg5', symObjAddr: 0xDCC, symBinAddr: 0x52EC, symSize: 0x3AC }
-  - { offsetInCU: 0x27, offset: 0xC348C, size: 0x8, addend: 0x0, symName: '_$s5Swiff6moduleyyAA9ContainerVcyADcF', symObjAddr: 0x0, symBinAddr: 0x5698, symSize: 0x30 }
-  - { offsetInCU: 0x3F, offset: 0xC34A4, size: 0x8, addend: 0x0, symName: '_$s5Swiff6moduleyyAA9ContainerVcyADcF', symObjAddr: 0x0, symBinAddr: 0x5698, symSize: 0x30 }
-  - { offsetInCU: 0xBE, offset: 0xC3523, size: 0x8, addend: 0x0, symName: '_$s5Swiff05startA0yyyAA9ContainerVcd_tF', symObjAddr: 0x30, symBinAddr: 0x56C8, symSize: 0x78 }
-  - { offsetInCU: 0x2B, offset: 0xC375F, size: 0x8, addend: 0x0, symName: '_$s5Swiff13SingleServiceV7getNameSSyF', symObjAddr: 0x0, symBinAddr: 0x5748, symSize: 0x130 }
-  - { offsetInCU: 0x4F, offset: 0xC3783, size: 0x8, addend: 0x0, symName: '_$s5Swiff13SingleServiceV7getNameSSyF', symObjAddr: 0x0, symBinAddr: 0x5748, symSize: 0x130 }
-  - { offsetInCU: 0x119, offset: 0xC384D, size: 0x8, addend: 0x0, symName: '_$s5Swiff13SingleServiceVWOr', symObjAddr: 0x1B8, symBinAddr: 0x5878, symSize: 0x28 }
+  - { offsetInCU: 0x27, offset: 0xC3466, size: 0x8, addend: 0x0, symName: '_$s5Swiff6moduleyyAA9ContainerVcyADcF', symObjAddr: 0x0, symBinAddr: 0x5698, symSize: 0x30 }
+  - { offsetInCU: 0x3F, offset: 0xC347E, size: 0x8, addend: 0x0, symName: '_$s5Swiff6moduleyyAA9ContainerVcyADcF', symObjAddr: 0x0, symBinAddr: 0x5698, symSize: 0x30 }
+  - { offsetInCU: 0xBE, offset: 0xC34FD, size: 0x8, addend: 0x0, symName: '_$s5Swiff05startA0yyyAA9ContainerVcd_tF', symObjAddr: 0x30, symBinAddr: 0x56C8, symSize: 0x78 }
+  - { offsetInCU: 0x2B, offset: 0xC3739, size: 0x8, addend: 0x0, symName: '_$s5Swiff13SingleServiceV7getNameSSyF', symObjAddr: 0x0, symBinAddr: 0x5748, symSize: 0x130 }
+  - { offsetInCU: 0x4F, offset: 0xC375D, size: 0x8, addend: 0x0, symName: '_$s5Swiff13SingleServiceV7getNameSSyF', symObjAddr: 0x0, symBinAddr: 0x5748, symSize: 0x130 }
+  - { offsetInCU: 0x119, offset: 0xC3827, size: 0x8, addend: 0x0, symName: '_$s5Swiff13SingleServiceVWOr', symObjAddr: 0x1B8, symBinAddr: 0x5878, symSize: 0x28 }
 ...

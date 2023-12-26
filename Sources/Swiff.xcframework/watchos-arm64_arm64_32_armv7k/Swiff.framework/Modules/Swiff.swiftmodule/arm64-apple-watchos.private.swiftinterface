@@ -47,7 +47,7 @@ import _SwiftConcurrencyShims
 }
 public typealias ModuleDeclaration = (Swiff.Container) -> Swift.Void
 public struct Container {
-  public func single<T>(to register: T.Type, implement: (any Swift.AnyObject.Type)? = nil, named: Swift.String? = nil) where T : Swiff.Injectable
+  public func single<T>(to register: T.Type, implement: (any Any.Type)? = nil, named: Swift.String? = nil) where T : Swiff.Injectable
   public func factory<T>(to register: T.Type, implement: (any Any.Type)? = nil, named: Swift.String? = nil) where T : Swiff.Injectable
 }
 public func module(_ container: @escaping Swiff.ModuleDeclaration) -> Swiff.ModuleDeclaration
