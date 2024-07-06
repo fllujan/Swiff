@@ -4,3 +4,4 @@
 + Si se declara varios modulos se deben ejecutar ambos modulos
 + Si dos instancias son del mismo tipo debemos ponerle un nombre para poder guardar en el container
 + Si queremos quitar una instancia del servive location deberiamos poder quitarla
++ git tag -a 1.0.1 -m "new type"

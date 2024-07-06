@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/DefinicionTest.text</key>
 		<data>
-		KTSKhQR6iLzdWp86Ou1JIMRxgyk=
+		YCizKGMLhiRkJnbDjwj2RmwkaEc=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		LsCiMSdbooUbeGpJFub66hzRe/U=
+		QNtOad0juHKheO38QLBQjsFaHMQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -19,7 +19,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Km61do9HC0KUpGBHd9MIp7oM6y+ZeeocRV/7iTmvqwQ=
+			q4Bh4tvoYlxONoPjPRZYgt2/rs29fTch4a1gsElweRA=
 			</data>
 		</dict>
 		<key>Headers/Swiff.h</key>
@@ -33,70 +33,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Eqr39l6r3nwzHfWNbuQ4eBzxpDI7YUsmetoXQvP/kc=
+			tcTzPzU3JPRde/PCxEKmXXSyAk4Pvx91Hk0H6p8103k=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SFDZTRgmV5TCj5QoEI85fA702uq2mc4i+GyjGC2uNS0=
+			5Mw1e0kv+qKyB5vpvEzCZwRf1KbFtVFB41wIfQoFw6I=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/FkEHF5UL9AOjCMUMighAj71nSUrKPaehyBIVRLCKVY=
+			tGeMvvTUPg85rRJj3TA+KA5lRXbVZAB3l3tm+4PYM9E=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SFDZTRgmV5TCj5QoEI85fA702uq2mc4i+GyjGC2uNS0=
+			5Mw1e0kv+qKyB5vpvEzCZwRf1KbFtVFB41wIfQoFw6I=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oeX5viUkxvYKJz+teNp4uLy1h9MVy9p0aDkBfqocJEo=
+			J2+JDxpWDlOkVcmI9LQ9yKuF+3RxIIFkYybJI3Czv0E=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Eqr39l6r3nwzHfWNbuQ4eBzxpDI7YUsmetoXQvP/kc=
+			tcTzPzU3JPRde/PCxEKmXXSyAk4Pvx91Hk0H6p8103k=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zn6wryzC/Xeua9EZ7hrw5YprQ9YshoYSTifs0CDusE0=
+			SG2rXS+eVJwv4K0UQqVkULlvNKglarAn+s2kurlPqtg=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UYnRKrsWf6m/WAr+HdzBLonCAqmtT209AEqu8h/aMHE=
+			HMfKOQEYAtHaLIFhADAEaxIXrvTpV+2d/bz5ZN0YzgA=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zn6wryzC/Xeua9EZ7hrw5YprQ9YshoYSTifs0CDusE0=
+			SG2rXS+eVJwv4K0UQqVkULlvNKglarAn+s2kurlPqtg=
 			</data>
 		</dict>
 		<key>Modules/Swiff.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N91STOigNVxCWEM96B5NAeY+hE3lEUxi39L/s/1YR+0=
+			L9TfhoR8nBYrfIn7LYHyqKaHcy4q7WpIg/ymO5kKfks=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -110,14 +110,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3+x4PCfpFB64iLxuEDPQPMOtrTkqzI+7OlUludl3F6c=
+			raUZROpo/dGuVrEz4ycFh3RqRkMoW/bZNRmc2wo5CRg=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XhWCDGyrB2bo5fjX9onaEeK6JISO/IgqOXjmheSqM2M=
+			n4ottvMqbDeUF5ZsUUEZB77DDbxMFTw4CMnNtjp/svQ=
 			</data>
 		</dict>
 	</dict>
